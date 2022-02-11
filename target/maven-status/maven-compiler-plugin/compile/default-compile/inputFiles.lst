@@ -1,0 +1,9 @@
+/home/oem/UniversityProjects/MIPT/FullStack/Project/demo/src/main/java/toeatlist/controllers/UserController.java
+/home/oem/UniversityProjects/MIPT/FullStack/Project/demo/src/main/java/toeatlist/services/UserService.java
+/home/oem/UniversityProjects/MIPT/FullStack/Project/demo/src/main/java/toeatlist/tables/User.java
+/home/oem/UniversityProjects/MIPT/FullStack/Project/demo/src/main/java/toeatlist/repositories/UserRepository.java
+/home/oem/UniversityProjects/MIPT/FullStack/Project/demo/src/main/java/toeatlist/repositories/FoodRepository.java
+/home/oem/UniversityProjects/MIPT/FullStack/Project/demo/src/main/java/toeatlist/tables/Food.java
+/home/oem/UniversityProjects/MIPT/FullStack/Project/demo/src/main/java/toeatlist/controllers/FoodController.java
+/home/oem/UniversityProjects/MIPT/FullStack/Project/demo/src/main/java/toeatlist/services/FoodService.java
+/home/oem/UniversityProjects/MIPT/FullStack/Project/demo/src/main/java/toeatlist/DemoApplication.java

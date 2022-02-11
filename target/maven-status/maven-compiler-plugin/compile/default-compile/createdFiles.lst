@@ -1,0 +1,9 @@
+toeatlist/services/UserService.class
+toeatlist/controllers/FoodController.class
+toeatlist/controllers/UserController.class
+toeatlist/tables/Food.class
+toeatlist/tables/User.class
+toeatlist/DemoApplication.class
+toeatlist/repositories/FoodRepository.class
+toeatlist/services/FoodService.class
+toeatlist/repositories/UserRepository.class
